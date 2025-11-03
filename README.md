@@ -1,2 +1,2 @@
 # ohtu-s25-palautukset
-repository for a university course
+https://github.com/aSkelanturi/ohtuvarasto
