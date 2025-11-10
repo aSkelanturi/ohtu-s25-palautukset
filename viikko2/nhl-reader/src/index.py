@@ -17,6 +17,8 @@ def main():
 
             players.append(player)
 
+    players.sort(key=lambda p: p.yhteenlasku, reverse=True)
+
     print("Players From Finland")
 
     for player in players:
