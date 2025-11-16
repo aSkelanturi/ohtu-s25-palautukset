@@ -1,0 +1,5 @@
+**Start, Stop, Continue, More of, Less of Wheel
+Tässä retroperspektiivitekniikassa piirretään ympyrä, joka jaetaan viiteen osaan. Käydään läpi kysymyksiä: Mitä pitäisi alkaa tekemään, minkä tekeminen pitäisi lopettaa, mitä toimintatapoja kannattaa jatkaa, mitä pitäisi vähentää ja mitä halutaan lisää. Ympyrän alueille kirjoitetaan muistiinpanoja kategorian perusteella (kysymykset.) Tekniikka nopea tapa saada “meta” keskustelua prosessin etenemisestä
+
+**Glad, Sad, Mad
+Osallistujat kirjoittavat korteille huomioita. Kirjoitetut huomiot voivat olla posiitiivisia tai negatiivisia. Huomiot eivät pelkästään keskity tiimin jäseniin, vaan voivat olla jäsenistä riippumattomia. Jäsenet asettavat korttinsa taululle, joka on jaettu kolmeen osaan (Glad, Sad, Mad), perusteella miten huomio sai heidät tuntemaan. Huomiot järjestetään, niin että esim. Samaa tarkoittavat asiat ovat vierekkäin jne. Huomioiden tärkeydestä äänestetään ja tämän jälkeen niistä käydään keskustelua tiimin kesken eniten ääniä saaneesta vähiten ääniä saaneeseen huomioon. 
