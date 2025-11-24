@@ -1,6 +1,7 @@
 from pankki import Pankki
 from viitegeneraattori import Viitegeneraattori
 from kauppa import Kauppa
+#muutos tännekkin
 
 
 def main():
