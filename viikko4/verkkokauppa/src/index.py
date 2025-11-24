@@ -16,7 +16,7 @@ def main():
     kauppa.poista_korista(1)
     kauppa.tilimaksu("Pekka Mikkola", "1234-12345")
 
-    # seuraava asiakas muutos
+    # seuraava asiakas
     kauppa.aloita_asiointi()
 
     for _ in range(0, 24):
