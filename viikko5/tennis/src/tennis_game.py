@@ -46,6 +46,6 @@ class TennisGame:
         else:
             return "Win for player2"  
 
-    Scores = {0: "Love", 1: "Fifteen", 2: "Thirty", 3: "Forty"}
+    SCORES = {0: "Love", 1: "Fifteen", 2: "Thirty", 3: "Forty"}
     def get_normal_score(self):
-        return f"{self.Scores[self.player1_score]}-{self.Scores[self.player2_score]}"
+        return f"{self.SCORES[self.player1_score]}-{self.SCORES[self.player2_score]}"
